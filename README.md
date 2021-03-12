@@ -1,5 +1,5 @@
 # hangman_Python3
-The is a Hangman game a user can play on their terminal, to attempt to guess missing characters of a randomly selected word before they get the noose. Users can upload their own word file for a harder challenge.
+This is a hangman game that can be played from the users terminal. The user is tasked with guessing the missing characters of a randomly selected word before they run out of turns and get the noose. Users can upload their own word file for a harder challenge.
 
 Run python3 hangman.py.
   - > Select a text file with words to guess.
